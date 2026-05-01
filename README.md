@@ -284,10 +284,7 @@ After studying this notebook, you will understand:
 
 **Student**: Harsh Tripathi  
 **Roll Number**: AD23B1021  
-**Course**: Advanced Non-Linear Optimization  
-**Instructor**: Dr. Arnav Ghosh  
-**Institution**: Indian Institute of Information Technology (IIIT) Raichur  
-**Date**: May 2026  
+**Topic**: Advanced Non-Linear Optimization  
 
 ---
 
@@ -396,5 +393,3 @@ For help with specific concepts:
 ---
 
 **Happy Learning! 🎓**
-
-*Last Updated: May 2026*
